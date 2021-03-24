@@ -39,23 +39,23 @@ $(document).ready(() => {
   const links = [
     {
       name: 'Foz#0420',
-      link: 'https://discord.gg/et3sNp44bX',
+      link: 'https://discord.gg/NUNKbsyZgf',
     },
     {
       name: 'FozHax',
-      link: 'https://discord.gg/et3sNp44bX',
+      link: 'https://discord.gg/NUNKbsyZgf',
     },
     {
       name: 'Foz#0420',
-      link: 'https://discord.gg/et3sNp44bX',
+      link: 'https://discord.gg/NUNKbsyZgf',
     },
     {
       name: 'FozHax',
-      link: 'https://discord.gg/et3sNp44bX',
+      link: 'https://discord.gg/NUNKbsyZgf',
     },
     {
       name: 'Foz#0420',
-      link: 'https://discord.gg/et3sNp44bX',
+      link: 'https://discord.gg/NUNKbsyZgf',
     },
   ];
 
@@ -75,7 +75,7 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger(['Foz#0420', 'FozHax', 'Foz#0420', 'FozHax', 'Foz#0420', 'FozIsCracked', 'FozHax', 'Song name: KUSO GVKI - Cinnamon (feat. Apfel) (splash! Mag Premiere)']);
+  app.titleChanger(['Foz#0420', 'FozHax', 'Foz#0420', 'FozHax', 'Foz#0420', 'FozIsCracked', 'FozHax', 'FozOnYoutube']);
   app.iconChanger(['assets/icons/roses/rose1.jpg', 'assets/icons/roses/rose2.jpg', 'assets/icons/roses/rose3.jpg', 'assets/icons/roses/rose4.jpg', 'assets/icons/roses/rose5.jpg', 'assets/icons/roses/rose6.jpg', 'assets/icons/roses/rose7.jpg', 'assets/icons/roses/rose8.jpg', 'assets/icons/roses/rose1.jpg']);
 });
 
