@@ -10,7 +10,7 @@ class _app {
   backgroundToggler = false;
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['11 years old kid', 'pro roblox player', 'ddoser', 'webdevs', 'counterpounters', 'haxorman', 'depressed tutrle', 'Foz#0420'];
+  brandDescription = ['discord bot dev', 'pro roblox player', 'ddoser', 'webdev', 'counterpounter', 'haxorman', 'depressed tutrle', 'Foz#0420'];
 
   titleChanger = (text, delay) => {
     if (!text) return;
